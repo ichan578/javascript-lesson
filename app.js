@@ -1,4 +1,4 @@
-let nickname = '(いっちゃん)'
+let nickname = '(いちゃん)'
 let age = '(２４歳)'
 let greet ='私のニックネームは' + name + 'です。' + '年齢は' + age +'です。'
 console.log(greet)
